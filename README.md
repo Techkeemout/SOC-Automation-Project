@@ -1,1 +1,1 @@
-# SOC-Automation-Project
+# SOC-Automation Lab
